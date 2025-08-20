@@ -1,0 +1,306 @@
+{
+  "name": "Union County, GA - 2024 Aerial Imagery",
+  "url": "https://tilecache.blob.core.windows.net/cache-29634",
+  "visibility": true,
+  "resolutions": [
+    660,
+    550,
+    440,
+    385,
+    330,
+    275,
+    220,
+    165,
+    110,
+    55,
+    27.5,
+    13.75,
+    6.875,
+    4.166666666667,
+    2.083333333333,
+    1.041666666667,
+    0.520833333333,
+    0.260416666667
+  ],
+  "tileSize": 256,
+  "tileOriginX": -16150100,
+  "tileOriginY": 21920200,
+  "enhancedUrl": "/Services/ArcGISTile/29634/tile",
+  "nativeLevels": 18,
+  "scales": [
+    760320,
+    633600,
+    506880,
+    443520,
+    380160,
+    316800,
+    253440,
+    190080,
+    126720,
+    63360,
+    31680,
+    15840,
+    7920,
+    4800,
+    2400,
+    1200,
+    600,
+    300
+  ],
+  "lods": [
+    {
+      "level": 0,
+      "levelValue": null,
+      "resolution": 660,
+      "scale": 760320
+    },
+    {
+      "level": 1,
+      "levelValue": null,
+      "resolution": 550,
+      "scale": 633600
+    },
+    {
+      "level": 2,
+      "levelValue": null,
+      "resolution": 440,
+      "scale": 506880
+    },
+    {
+      "level": 3,
+      "levelValue": null,
+      "resolution": 385,
+      "scale": 443520
+    },
+    {
+      "level": 4,
+      "levelValue": null,
+      "resolution": 330,
+      "scale": 380160
+    },
+    {
+      "level": 5,
+      "levelValue": null,
+      "resolution": 275,
+      "scale": 316800
+    },
+    {
+      "level": 6,
+      "levelValue": null,
+      "resolution": 220,
+      "scale": 253440
+    },
+    {
+      "level": 7,
+      "levelValue": null,
+      "resolution": 165,
+      "scale": 190080
+    },
+    {
+      "level": 8,
+      "levelValue": null,
+      "resolution": 110,
+      "scale": 126720
+    },
+    {
+      "level": 9,
+      "levelValue": null,
+      "resolution": 55,
+      "scale": 63360
+    },
+    {
+      "level": 10,
+      "levelValue": null,
+      "resolution": 27.5,
+      "scale": 31680
+    },
+    {
+      "level": 11,
+      "levelValue": null,
+      "resolution": 13.75,
+      "scale": 15840
+    },
+    {
+      "level": 12,
+      "levelValue": null,
+      "resolution": 6.875,
+      "scale": 7920
+    },
+    {
+      "level": 13,
+      "levelValue": null,
+      "resolution": 4.1666666666666661,
+      "scale": 4800
+    },
+    {
+      "level": 14,
+      "levelValue": null,
+      "resolution": 2.083333333333333,
+      "scale": 2400
+    },
+    {
+      "level": 15,
+      "levelValue": null,
+      "resolution": 1.0416666666666665,
+      "scale": 1200
+    },
+    {
+      "level": 16,
+      "levelValue": null,
+      "resolution": 0.52083333333333326,
+      "scale": 600
+    },
+    {
+      "level": 17,
+      "levelValue": null,
+      "resolution": 0.26041666666666663,
+      "scale": 300
+    }
+  ],
+  "tileInfo": {
+    "dpi": 96,
+    "cols": 0,
+    "format": null,
+    "lods": [
+      {
+        "level": 0,
+        "levelValue": null,
+        "resolution": 660,
+        "scale": 760320
+      },
+      {
+        "level": 1,
+        "levelValue": null,
+        "resolution": 550,
+        "scale": 633600
+      },
+      {
+        "level": 2,
+        "levelValue": null,
+        "resolution": 440,
+        "scale": 506880
+      },
+      {
+        "level": 3,
+        "levelValue": null,
+        "resolution": 385,
+        "scale": 443520
+      },
+      {
+        "level": 4,
+        "levelValue": null,
+        "resolution": 330,
+        "scale": 380160
+      },
+      {
+        "level": 5,
+        "levelValue": null,
+        "resolution": 275,
+        "scale": 316800
+      },
+      {
+        "level": 6,
+        "levelValue": null,
+        "resolution": 220,
+        "scale": 253440
+      },
+      {
+        "level": 7,
+        "levelValue": null,
+        "resolution": 165,
+        "scale": 190080
+      },
+      {
+        "level": 8,
+        "levelValue": null,
+        "resolution": 110,
+        "scale": 126720
+      },
+      {
+        "level": 9,
+        "levelValue": null,
+        "resolution": 55,
+        "scale": 63360
+      },
+      {
+        "level": 10,
+        "levelValue": null,
+        "resolution": 27.5,
+        "scale": 31680
+      },
+      {
+        "level": 11,
+        "levelValue": null,
+        "resolution": 13.75,
+        "scale": 15840
+      },
+      {
+        "level": 12,
+        "levelValue": null,
+        "resolution": 6.875,
+        "scale": 7920
+      },
+      {
+        "level": 13,
+        "levelValue": null,
+        "resolution": 4.1666666666666661,
+        "scale": 4800
+      },
+      {
+        "level": 14,
+        "levelValue": null,
+        "resolution": 2.083333333333333,
+        "scale": 2400
+      },
+      {
+        "level": 15,
+        "levelValue": null,
+        "resolution": 1.0416666666666665,
+        "scale": 1200
+      },
+      {
+        "level": 16,
+        "levelValue": null,
+        "resolution": 0.52083333333333326,
+        "scale": 600
+      },
+      {
+        "level": 17,
+        "levelValue": null,
+        "resolution": 0.26041666666666663,
+        "scale": 300
+      }
+    ],
+    "origin": {
+      "x": -16150100,
+      "y": 21920200,
+      "spatialReference": {
+        "wkid": 102667,
+        "latestWkid": 0
+      }
+    },
+    "size": [
+      256,
+      256
+    ],
+    "spatialReference": {
+      "wkid": 102667,
+      "latestWkid": 0
+    }
+  },
+  "augmentedZoomLevels": [],
+  "serviceType": 16,
+  "beaconServerId": 29634,
+  "beaconLayers": [
+    {
+      "layerId": 41590,
+      "type": null,
+      "renderClientSide": false,
+      "isEditLayer": false
+    }
+  ],
+  "beaconLayerIds": [
+    41590
+  ],
+  "opacity": 1
+}

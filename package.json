@@ -1,0 +1,19 @@
+{
+  "name": "tile-downloader",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^7.0.6",
+    "vite-plugin-mkcert": "^1.17.8"
+  },
+  "dependencies": {
+    "ol": "latest",
+    "p-limit": "^7.1.0",
+    "proj4": "^2.19.10",
+    "zod": "^4.0.17"
+  }
+}
